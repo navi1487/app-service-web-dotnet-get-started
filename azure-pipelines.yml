@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'deafult'
+  name: 'Default'
   vmImage: 'vm1'
 
 variables:
